@@ -1,0 +1,23 @@
+{
+  "name": "xela-smart_insuarance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALVIN-OBONYO/Xela-smart_insuarance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALVIN-OBONYO/Xela-smart_insuarance/issues"
+  },
+  "homepage": "https://github.com/ALVIN-OBONYO/Xela-smart_insuarance#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "web3": "^1.8.0"
+  }
+}
